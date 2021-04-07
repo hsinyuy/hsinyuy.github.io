@@ -5,3 +5,12 @@
     --color-primary-dark:32, 90, 199;
     
 }
+
+.sec_1 {
+    display: block;
+    position: relative;
+    background-color: rgba(var(--color-grey), 0.1);
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
